@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Jose Martinez<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-¡Hola, soy José Martínez Silva! 👋  
+# 💫 About Me
 Soy desarrollador de software apasionado por crear soluciones prácticas e innovadoras.  
 Tengo experiencia en proyectos web, móviles y backend con tecnologías como Kotlin, C#, .NET, SQL Server, Python y Power BI.  
 
