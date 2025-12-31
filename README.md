@@ -6,11 +6,10 @@ Tengo experiencia en proyectos web, móviles y backend con tecnologías como Kot
 🚀 Me motiva aprender constantemente, asumir nuevos retos y aportar valor real a cada equipo en el que participo.  
 Busco destacar no solo por mis habilidades técnicas, sino también por mi compromiso, responsabilidad y trabajo en equipo.  
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 ---
 
 ## 🌐 Socials
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-de-jesus-martinez-silva-13618b2b4)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pepe.chuy2001@hotmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/JoseMartinezS)  
