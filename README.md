@@ -6,6 +6,8 @@ Tengo experiencia en proyectos web, móviles y backend con tecnologías como Kot
 🚀 Me motiva aprender constantemente, asumir nuevos retos y aportar valor real a cada equipo en el que participo.  
 Busco destacar no solo por mis habilidades técnicas, sino también por mi compromiso, responsabilidad y trabajo en equipo.  
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 ---
 
 ## 🌐 Socials
